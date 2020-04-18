@@ -1,0 +1,1 @@
+/home/mgena/.MSOFT/_opengl/GLAD/T/src/glad.c

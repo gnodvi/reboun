@@ -1,0 +1,1 @@
+/home/mgena/.MSOFT/_COSMOS/reboun/HannoRein/rebound/examples/bouncing_balls_corners/rebound.sh

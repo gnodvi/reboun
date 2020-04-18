@@ -1,0 +1,11 @@
+
+*.pyc
+*.o
+*.a
+*.so
+\#*\#
+a_CALC
+a_CALC_SED
+a_DIFF
+a_TRUE_SED
+
